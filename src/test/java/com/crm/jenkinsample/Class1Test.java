@@ -9,6 +9,7 @@ public class Class1Test
 	public void m1Test()
 	{
 		Reporter.log("class1Test", true);
+		//comment
 		
 
 		
