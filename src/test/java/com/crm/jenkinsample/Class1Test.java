@@ -11,5 +11,6 @@ public class Class1Test
 		Reporter.log("class1Test", true);
 		//commit
 		//commit
+		//commit
 	}
 }
